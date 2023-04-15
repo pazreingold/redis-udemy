@@ -1,3 +1,10 @@
+# Redis Udemy - By Paz Reingold :dog:
+This project make use of
+* Redis
+
+The course [Redis: The Complete Developer's Guide](https://www.udemy.com/course/redis-the-complete-developers-guide-p/) by Stephen Grider
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
